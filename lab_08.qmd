@@ -95,6 +95,11 @@ Once your app can filter the data:
 
 ::: {.solution}
 
+```{r}
+read_csv("src/data/penguins.csv")
+
+```
+
 :::
 
 ## Finished? {.unnumbered}
